@@ -250,7 +250,7 @@ uv run pytest tests/test_smoke_live.py -v -s
 ## Acknowledgements
 
 - [Prime Intellect](https://primeintellect.ai) for the [`prime` Python SDK](https://github.com/PrimeIntellect-ai/prime) that does 90% of the work
-- MIT 6.S192 for the credits that made testing this possible
+- MIT 6.8610 (Advanced NLP) for the Prime Intellect credits that made testing this possible
 - [Anthropic](https://anthropic.com) for [MCP](https://modelcontextprotocol.io)
 - [FastMCP](https://gofastmcp.com) for the framework
 
