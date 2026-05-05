@@ -1,0 +1,47 @@
+# project-specific (DO NOT COMMIT)
+info.txt
+FUTURE.md
+.prime-intellect-mcp/
+*.pem
+*.key
+*.key.pub
+
+# python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+.python-version
+.eggs/
+
+# tooling
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+
+# editors
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*~
+
+# env / secrets
+.env
+.env.*
+!.env.example
+
+# claude artifacts that don't belong in OSS repo
+.claude/
+CLAUDE.md
