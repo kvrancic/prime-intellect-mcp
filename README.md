@@ -8,8 +8,6 @@
 [![CI](https://github.com/kvrancic/prime-intellect-mcp/actions/workflows/test.yml/badge.svg)](https://github.com/kvrancic/prime-intellect-mcp/actions)
 [![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-compatible-blueviolet)](https://modelcontextprotocol.io)
 
-> 📺 **30-second demo:** *(replace with video / GIF on launch — see [docs/DEMO_SCRIPT.md](docs/DEMO_SCRIPT.md))*
-
 ---
 
 ## What this is
