@@ -1,6 +1,7 @@
 # project-specific (DO NOT COMMIT)
 info.txt
 FUTURE.md
+notes/
 .prime-intellect-mcp/
 *.pem
 *.key
